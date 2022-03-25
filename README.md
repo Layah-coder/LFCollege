@@ -14,4 +14,4 @@ Various images of website in use.
 ![My Image](newstudent.PNG)
 ![My Image](studentlistupdated.PNG)
 ![My Image](students.PNG)
-![My Image](updated_student list 2.PNG)
+![My Image](updated_student_list 2.PNG)
